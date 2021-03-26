@@ -28,6 +28,10 @@
     display: block;
     width: 500px;
     margin: 0 auto 0;
+    margin-top: 15px;
+  }
+  .todo-sec{
+    margin-top: 15px;
   }
   .task {
     width: 56%;
