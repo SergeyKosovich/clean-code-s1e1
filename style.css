@@ -39,6 +39,7 @@
     flex-grow: 1;
   }
   .task-row-wrapper {
+    margin-top: 20px;
     display: flex;
   }
   ul {
