@@ -18,8 +18,11 @@
   }
   
   @media (max-width:768px) {
-  .page-head { text-align: center;
-  }
+
+    .page-head {
+      text-align: center;
+    }
+    
   }
   .main-element {
     display: block;
